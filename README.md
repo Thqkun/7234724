@@ -2,11 +2,9 @@
 	<img width="755" height="175" src="assets/images/logo.png">
 </p>
 
-# Info
-Packet Client is an MCBE Utility mod made by: Packet, Deq, Swed, NRG and Founder
-
-Packet Client is a fork of the Horion Client
-
+# 説明
+ThakunはハイピクセルでYTランクを目指している普通のYouTuberです
+出来ればチャンネル登録してね
 
 ## Credits
 
