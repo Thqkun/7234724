@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -14,19 +15,10 @@ body {
     background-repeat: no-repeat;
 }
 .Home {
-    display: inline-flex;
     position: absolute;
     top: 0%;
     left: 90%;
-    max-width: 100%;
-    height: 50px;
-    padding: 0;
-    background: #00c607;
-    border-radius: 5px;
-    overflow: hidden;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
-    font-size: 15px;
-    font-weight: 500;
+    font-size: 20px;
 }
 .YouTube2 {
     position: relative;
